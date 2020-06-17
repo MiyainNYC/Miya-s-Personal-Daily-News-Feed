@@ -41,7 +41,7 @@ html = final_df.to_html(index=False)#.replace('border="1"','border="0"')
 with open(output_dir+"/wsj.html", "w", encoding="utf-8") as file:
     file.writelines('<meta charset="UTF-8">\n')
     file.write(html)
-html1  = open(output_dir+'/juzi/wsj.html').read()
+html1  = open(output_dir+'/wsj.html').read()
 
     
 sender_email = '********' 
