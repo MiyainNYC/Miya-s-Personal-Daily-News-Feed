@@ -7,5 +7,6 @@ This project is aimed at sending me news every day so that I can read stuff i wa
 * WSJ: Top News
 * Barron: Important Eco Indicators Schedule
 * FT: Fund Management + Capital Markets
+* SeekingAlpha: IPO news
 
 --------More Coming------
